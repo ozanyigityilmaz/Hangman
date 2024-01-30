@@ -1,0 +1,9 @@
+Pelin;30
+Kaan;15
+Yeliz;25
+Cem;40
+Can;35
+Ece;5
+Sibel;30
+Remzi;20
+Ali;50
